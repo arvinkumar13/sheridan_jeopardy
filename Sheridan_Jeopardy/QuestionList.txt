@@ -1,0 +1,174 @@
+Question: When was the iphone launched
+Option1: 2006
+Option2: 2007
+Option3: 2008
+Option4: 2009
+Right Answer: 2007
+
+Question: Which of these is not a android version
+Option1: Cupcake
+Option2: Lollipop
+Option3: Gingerbread
+Option4: Chocolate
+Right Answer: Chocolate
+
+Question: Which of these is not a Samsung
+Option1: note4
+Option2: s5
+Option3: grand2
+Option4: pad3
+Right Answer: pad3
+
+Question: Which of these is the latest Samsung Note
+Option1: note3
+Option2: note4
+Option3: note5
+Option4: note6
+Right Answer: note4
+
+Question: Which battery do Samsung s6plus have
+Option1: 2800mAh
+Option2: 3000mAh
+Option3: 3200mAh
+Option4: 3400mAh
+Right Answer: 3200mAh
+
+Question: Which is the latest ford mustang generation
+Option1: 5th
+Option2: 6th
+Option3: 7th
+Option4: 8th
+Right Answer: 6th
+
+Question: When was Ford Mustang first introduced
+Option1: 1966
+Option2: 1967
+Option3: 1965
+Option4: 1964
+Right Answer: 1964
+
+Question: When was the dodge charger first made
+Option1: 1966
+Option2: 1967
+Option3: 1965
+Option4: 1964
+Right Answer: 1966
+
+Question: What is the top speed of the fastest mustang
+Option1: 200mph
+Option2: 190mph
+Option3: 184mph
+Option4: 220mph
+Right Answer: 200mph
+
+Question: What is Camero's top Speed
+Option1: 200mph
+Option2: 190mph
+Option3: 184mph
+Option4: 218mph
+Right Answer: 184mph
+
+Question: When was the blind side released
+Option1: 2007
+Option2: 2008
+Option3: 2009
+Option4: 2010
+Right Answer: 2009
+
+Question: when was forrest gump released
+Option1: 1994
+Option2: 1995
+Option3: 1996
+Option4: 1997
+Right Answer: 1994
+
+Question: how many oscars did titanic win
+Option1: 12
+Option2: 14
+Option3: 13
+Option4: 11
+Right Answer: 11
+
+Question: how many transformer movies have been released
+Option1: 4
+Option2: 5
+Option3: 6
+Option4: 3
+Right Answer: 4
+
+Question: When was Safe Haven Initially released
+Option1: Feb13,2013
+Option2: March13,2013
+Option3: Feb14,2013
+Option4: Jan14,2013
+Right Answer: Feb13,2013
+
+Question: Which series did Jason Statham not act in
+Option1: Crank
+Option2: Transporter
+Option3: Expendables
+Option4: Saw
+Right Answer: Saw
+
+Question: What is vin diesel's name in 'the pacifier'
+Option1: Dominic Toretto
+Option2: Shane Wolfe
+Option3: Vin diesel
+Option4: Kaulder
+Right Answer: Shane Wolfe
+
+Question: Where is Daniel Radcliffe from
+Option1: liverpool
+Option2: london
+Option3: fulhum
+Option4: dublin
+Right Answer: fulhum
+
+Question: How old is Sylvester Stallone
+Option1: 66
+Option2: 71
+Option3: 69
+Option4: 74
+Right Answer: 69
+
+Question: How old is Luke Bryan
+Option1: 39
+Option2: 37
+Option3: 41
+Option4: 38
+Right Answer: 39
+
+Question: Who sang the song 'round here'
+Option1: Taylor Swift
+Option2: Madonna
+Option3: Nicky Minaj
+Option4: Jocelyn Alice
+Right Answer: Jocelyn Alice
+
+Question: When was the ablum Riser by Dierks Bentley released
+Option1: 2012
+Option2: 2013
+Option3: 2014
+Option4: 2015
+Right Answer: 2015
+
+Question: Which of these was not a part of the ablum 'Crash My Party'
+Option1: Drink a beer
+Option2: rollar Coaster
+Option3: play it again
+Option4: Do i
+Right Answer: Do i
+
+Question: Who sang the song 'round here'
+Option1: Florida Georgia line
+Option2: Luke Bryan
+Option3: Tim McGraw
+Option4: Dierks Bentley
+Right Answer: Florida Georgia line
+
+Question: Who sang the song 'Hungry Heart'
+Option1: Bruce Springsteen
+Option2: Luke Bryan
+Option3: Tim McGraw
+Option4: Dierks Bentley
+Right Answer: Bruce Springsteen

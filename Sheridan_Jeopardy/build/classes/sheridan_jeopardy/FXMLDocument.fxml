@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="367.0" prefWidth="423.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sheridan_jeopardy.FXMLDocumentController">
+   <children>
+      <ImageView fitHeight="244.0" fitWidth="424.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/jeopardy.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="62.0" fitWidth="117.0" layoutX="154.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/sheridan.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="8.0" layoutY="252.0" text="Please enter your Name">
+         <font>
+            <Font name="Harlow Solid Italic" size="18.0" />
+         </font>
+      </Label>
+      <TextField fx:id="userName" layoutX="193.0" layoutY="244.0" prefHeight="30.0" prefWidth="217.0" promptText="enter your name here">
+         <font>
+            <Font name="Gabriola" size="24.0" />
+         </font>
+      </TextField>
+      <Button fx:id="login" layoutX="150.0" layoutY="316.0" mnemonicParsing="false" onAction="#playGame" text="Login">
+         <font>
+            <Font name="Forte" size="24.0" />
+         </font>
+      </Button>
+      <Label fx:id="noInput" layoutX="181.0" layoutY="290.0" prefHeight="16.0" prefWidth="242.0" text="*please enter your name before logging in" textFill="#c91616" visible="false">
+         <font>
+            <Font name="Times New Roman" size="14.0" />
+         </font></Label>
+   </children>
+</AnchorPane>

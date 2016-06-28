@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sheridan_jeopardy.AnswerResultController">
+   <children>
+      <Label fx:id="feedback" layoutX="36.0" layoutY="18.0" prefHeight="265.0" prefWidth="532.0" style="-fx-alignment: center; -fx-background-color: white;" text="label" textFill="#242a54">
+         <font>
+            <Font name="Aharoni Bold" size="36.0" />
+         </font></Label>
+      <Button fx:id="quitButton" layoutX="138.0" layoutY="298.0" mnemonicParsing="false" onAction="#goBackToGame" prefHeight="88.0" prefWidth="301.0" text="Continue the game" textFill="#3d5126">
+         <font>
+            <Font name="Forte" size="32.0" />
+         </font></Button>
+   </children>
+</AnchorPane>

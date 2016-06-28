@@ -1,0 +1,25 @@
+When was the iphone launched::2006::2007::2008::2009::2007::100::Cell Phones
+Which of these is not a android version::Cupcake::Lollipop::Gingerbread::Chocolate::Chocolate::200::Cell Phones
+Which of these is not a Samsung::note4::s5::grand2::pad3::pad3::300::Cell Phones
+Which of these is the latest Samsung Note::note3::note4::note5::note6::note4::400::Cell Phones
+Which battery do Samsung s6plus have::2800mAh::3000mAh::3200mAh::3400mAh::3200mAh::500::Cell Phones
+Which is the latest ford mustang generation::5th::6th::7th::8th::6th::100::Cars
+When was Ford Mustang first introduced::1966::1967::1965::1964::1964::200::Cars
+When was the dodge charger first made::1966::1967::1965::1964::1966::300::Cars
+What is the top speed of the fastest mustang::200mph::190mph::184mph::220mph::200mph::400::Cars
+What is Camero's top Speed::200mph::190mph::184mph::218mph::184mph::500::Cars
+When was the blind side released::2007::2008::2009::2010::2009::100::Movies
+when was forrest gump released::1994::1995::1996::1997::1994::200::Movies
+how many oscars did titanic win::12::14::13::11::11::300::Movies
+how many transformer movies have been released::4::5::6::3::4::400::Movies
+When was Safe Haven Initially released::Feb13,2013::March13,2013::Feb14,2013::Jan14,2013::Feb13,2013::500::Movies
+Which series did Jason Statham not act in::Crank::Transporter::Expendables::Saw::Saw::100::Actors
+What is vin diesel's name in 'the pacifier'::Dominic Toretto::Shane Wolfe::Vin diesel::Kaulder::Shane Wolfe::200::Actors
+Where is Daniel Radcliffe from::liverpool::london::fulhum::dublin::fulhum::300::Actors
+How old is Sylvester Stallone::66::71::69::74::69::400::Actors
+How old is Luke Bryan::39::37::41::38::39::500::Actors
+Who sang the song 'round here'::Taylor Swift::Madonna::Nicky Minaj::Jocelyn Alice::Jocelyn Alice::100::Music
+When was the ablum Riser by Dierks Bentley released::2012::2013::2014::2015::2015::200::Music
+Which of these was not a part of the ablum 'Crash My Party'::Drink a beer::rollar Coaster::play it again::Do i::Do i::300::Music
+Who sang the song 'round here'::Florida Georgia line::Luke Bryan::Tim McGraw::Dierks Bentley::Florida Georgia line::400::Music
+Who sang the song 'Hungry Heart'::Bruce Springsteen::Luke Bryan::Tim McGraw::Dierks Bentley::Bruce Springsteen::500::Music

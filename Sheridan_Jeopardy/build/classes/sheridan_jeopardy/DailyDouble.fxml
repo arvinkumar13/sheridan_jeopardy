@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="442.0" prefWidth="428.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sheridan_jeopardy.DailyDoubleController">
+   <children>
+      <ImageView fitHeight="282.0" fitWidth="444.0" layoutX="-2.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/dailyDouble.jpg" />
+         </image>
+      </ImageView>
+      <Label fx:id="maxAmount" layoutX="7.0" layoutY="297.0" prefHeight="40.0" prefWidth="219.0" text="Label">
+         <font>
+            <Font name="Harlow Solid Italic" size="20.0" />
+         </font></Label>
+      <TextField fx:id="newValue" layoutX="248.0" layoutY="298.0" prefHeight="40.0" prefWidth="166.0" promptText="\$">
+         <font>
+            <Font name="Gabriola" size="24.0" />
+         </font></TextField>
+      <Button fx:id="setValue" layoutX="34.0" layoutY="377.0" mnemonicParsing="false" onAction="#goBackToQuestion" prefHeight="40.0" prefWidth="361.0" text="See the question">
+         <font>
+            <Font name="Forte" size="28.0" />
+         </font></Button>
+      <Label fx:id="errorInput" layoutX="188.0" layoutY="338.0" prefHeight="25.0" prefWidth="240.0" text="please enter the amount properly" textFill="#bc1010" visible="false">
+         <font>
+            <Font name="Times New Roman" size="13.0" />
+         </font></Label>
+   </children>
+</AnchorPane>
